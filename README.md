@@ -45,7 +45,4 @@ Stego is a simple Python application built using Tkinter and PIL (Python Imaging
 
 ## Contributors
 
-- Ali Gohar 
-```
-https://github.com/AliGohar2151
-```
+- Ali Gohar (https://github.com/AliGohar2151)
